@@ -1,0 +1,7 @@
+﻿.navbar-wrapper {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    display: flex;
+    transform:translateX(-50%);
+}

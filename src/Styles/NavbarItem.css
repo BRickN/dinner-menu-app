@@ -1,0 +1,7 @@
+﻿.navbar-item {
+    padding: 10px 15px;
+    border: 1px black solid;
+    border-radius: 2px;
+    margin: 5px 0px;
+    cursor:pointer;
+}
