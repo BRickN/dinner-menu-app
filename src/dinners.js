@@ -22,7 +22,7 @@ export const dinners = [
                 {
                     date: '',
                     day: 'thursday',
-                    dish: 'fish with kartoffel'
+                    dish: 'fish with kartoffell'
                 },
                 {
                     date: '',
